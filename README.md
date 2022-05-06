@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Asp.Net-MVC-Project](https://github.com/KaramanTugba/Asp.Net-MVC-Project)
+- 🔭 I’m currently working on [Travelook with Asp.Net Core](https://github.com/KaramanTugba/Travelook)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
